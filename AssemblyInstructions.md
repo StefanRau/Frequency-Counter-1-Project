@@ -28,6 +28,7 @@ I've printed page 2 of document "Frontplatte.doc" on transparent inkjet film. Pa
 You can now assemble the finished front plate and the board "Frontplatte".
 Put M2x15 screws into the corresponging drills. Fix with a nut and put 3 plastic washers at it ISO 7089 2,2x5x0,3.
 ![](/Assembly/20220929_183835.jpg)
+
 Use the same screws for the board "Frontplatte". Use here 1st one plastic washer and fix it with a nut.
 ![](/Assembly/20220929_185013.jpg)
 Next step is assembling front plate and its board. Also use here 1st one plastic washer and fix it with a nut.
