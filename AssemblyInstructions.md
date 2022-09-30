@@ -59,5 +59,5 @@ Put into Bopla case
 ![](/Assembly/20220929_182101.jpg)
 
 And fix with four screws
-![](/Assembly/20220929_181624.jpg)
+![](/Assembly/20220929_182224.jpg)
 
