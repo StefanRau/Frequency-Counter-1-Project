@@ -66,6 +66,6 @@ Connect the back plate
 
 View into Frequency counter with open cover.
 ![](/Assembly/20220929_181624.jpg)
-## The finished Frequency Counter
+## The Frequency Counter is functioning
 That is the result
 ![](/Assembly/20220929_191222.jpg)
