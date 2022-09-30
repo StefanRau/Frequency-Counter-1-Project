@@ -4,3 +4,6 @@ Other repositories are:
 - [Hardware](https://github.com/StefanRau/Frequency-Counter-1-Hardware)
 - [Software](https://github.com/StefanRau/Frequency-Counter-1-Arduino)
 - [PC terminal software](https://github.com/StefanRau/Frequency-Counter-1-Terminal)
+## Documents
+- [Project document](Frequenzzähler.docx)
+- [Assembly instructions](AssemblyInstructions.md)
