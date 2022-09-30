@@ -7,10 +7,6 @@ The CAD names of the boards from top to bottom:
 - "Hauptplatine"
 - "Frontplatte"
 - "100 MHz TTL CMOS"
-## The finished Frequency Counter
-That is the result
-![](/Assembly/20220929_191222.jpg)
-
 ## Assembling the different modules
 ### Boards
 The 1st step is to assemble all single boards. That is easy and needs no detailed explaination.
@@ -45,19 +41,31 @@ Now put four plastic washers on each screw of the display and mount the display.
 ![](/Assembly/20220929_182234.jpg)
 
 ### Assemble remaining Parts
-Assemble front plate and main board.
+Assemble front plate and main board. The mainboard is updated with event counting feature, like you can see on the extra wires. The current CAD model already contains this fix.
 Before assembling:
 ![](/Assembly/20220929_182212.jpg)
 
 After assembling:
 ![](/Assembly/20220929_182123.jpg)
 
-Fix nut of BNC connector.
+Fix nut of BNC connector but not completey, the custruction need a bit clearance for the next steps.
 ![](/Assembly/20220929_182151.jpg) ![](/Assembly/20220929_182135.jpg)
 
 Put into Bopla case 
 ![](/Assembly/20220929_182101.jpg)
 
-And fix with four screws
+And fix with four screws at the marked drills.
 ![](/Assembly/20220929_182224.jpg)
 
+Assemble the "100 MHz TTL CMOS" board.
+![](/Assembly/20220929_181958.jpg)
+![](/Assembly/20220929_181936.jpg)
+
+Connect the back plate
+![](/Assembly/20220929_181737.jpg)
+
+View into Frequency counter with open cover.
+![](/Assembly/20220929_181624.jpg)
+## The finished Frequency Counter
+That is the result
+![](/Assembly/20220929_191222.jpg)
