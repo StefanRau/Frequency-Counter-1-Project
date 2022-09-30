@@ -30,3 +30,6 @@ Put M2x15 screws into the corresponging drills. Fix with a nut and put 3 plastic
 ![](/Assembly/20220929_183835.jpg)
 Use the same screws for the board "Frontplatte". Use here 1st one plastic washer and fix it with a nut.
 ![](/Assembly/20220929_185013.jpg)
+Next step
+![](/Assembly/20220929_185224.jpg)
+ 
