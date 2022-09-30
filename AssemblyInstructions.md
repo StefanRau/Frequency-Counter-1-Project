@@ -41,5 +41,23 @@ Use the same screws for the board "Frontplatte". Use here 1st one plastic washer
 Next step is assembling front plate and its board. Also use here 1st one plastic washer and fix it with a nut.
 ![](/Assembly/20220929_185224.jpg)
 
-Now put four plastic washers on each screw of the display and mount the display. Fix the display with one plastic washer and a nut.
+Now put four plastic washers on each screw of the display and mount the display. Fix the display with one plastic washer and a nut on each screw.
 ![](/Assembly/20220929_182234.jpg)
+
+### Assemble remaining Parts
+Assemble front plate and main board.
+Before assembling:
+![](/Assembly/20220929_182212.jpg)
+
+After assembling:
+![](/Assembly/20220929_182123.jpg)
+
+Fix nut of BNC connector.
+![](/Assembly/20220929_182151.jpg) ![](/Assembly/20220929_182135.jpg)
+
+Put into Bopla case 
+![](/Assembly/20220929_182101.jpg)
+
+And fix with four screws
+![](/Assembly/20220929_181624.jpg)
+
