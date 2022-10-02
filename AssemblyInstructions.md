@@ -1,4 +1,5 @@
-# Assembly of the Frequency Counter
+# Assembly of the Frequency Counter 1
+This instruction explains step by step how to assemble the different components.
 ## The single boards
 The picture shows a version before event counting was implemented
 ![](/Assembly/20220930_171930.jpg)
